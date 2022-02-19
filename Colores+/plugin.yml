@@ -1,0 +1,11 @@
+name: Colores
+version: 6.2
+main: me.coarr.main.Main
+commands:
+  colores:
+    description: Cambia tu color en el chat!
+  namecolor:
+    description: Cambia tu color en el nombre!
+  tabcolor:
+    description: Cambia tu color en el tab!
+softdepend: [PlaceholderAPI]
